@@ -1,0 +1,3 @@
+D:\Trabajos\Ludus\Unreal\BattleTank_MasterLudusV1\BattleTank\Source\BattleTank\BattleTank.Build.cs
+D:\Trabajos\Ludus\Unreal\BattleTank_MasterLudusV1\BattleTank\Source\BattleTank.Target.cs
+D:\Trabajos\Ludus\Unreal\BattleTank_MasterLudusV1\BattleTank\Source\BattleTankEditor.Target.cs
